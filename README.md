@@ -51,9 +51,9 @@
 ### 🛠️ 技術,工具(Tech Stack & Tools)
 <sup><i>我用過or會用的，還有會一些or只會一咪咪的.w.</i></sup>
 <br><br>
-<img src="https://skillicons.dev/icons?i=vscode,c++,python,js,ts,react,nextjs,nodejs,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,discord,cpp,python,c,java,git,github,docker&theme=dark" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,discord,linux,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,html,css,tailwind,js,ts,react,nextjs,nodejs,bash&theme=dark" />
 <br>
 
 ### 🚀 Featured Projects
