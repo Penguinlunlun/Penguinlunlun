@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="80">
   
-  # Hi there, I'm 東極企鵝! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+  # Hi there, I'm 東極企鵝! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10">
   
   ### 🐧 Student from TW, FCU / Developer
 </div>
@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.meee.com.tw/N4xbhp8.png" alt="東極企鵝" width="500" height="500" style="border-radius: 50%;">
+  <img src="https://i.meee.com.tw/N4xbhp8.png" alt="東極企鵝" width="800" style="border-radius: 50%;">
 </div>
 
 ---
