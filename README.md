@@ -3,7 +3,7 @@
   
   # Hi there, I'm 東極企鵝! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
   
-  ### 🐧 Student from TW, HCHS / Developer
+  ### 🐧 Student from TW, FCU / Developer
 </div>
 
 <div align="center">
@@ -34,14 +34,14 @@
 ---
 
 ### 🧊 關於我(About Me)
-- 🏫 **Student** at **HCHS** (新莊高中)  
+- 🏫 **Student** at **FCU** 
 - 💻 Passionate about **Discord Bot Development** and **Algorithms**
 - 🤖 Currently learning **Machine Learning** and **Full-stack Web Development**
 - 🐧 Always exploring the **infinite possibilities of code** in the Antarctic snow
 
 ### 📞 聯繫我(Contact Me)
 
-🌐 **Website:** [east-pole-penguin.site](https://www.east-pole-penguin.site)  
+🌐 **Website:** [east-pole-penguin.live](https://www.east-pole-penguin.live)  
 📝 **Blog:** *(Coming Soon)*  
 📧 **Email:** [allens2014046@gmail.com](mailto:allens2014046@gmail.com)  
 💬 **Discord:** [@east_pole_penguin](http://discordapp.com/users/468758934010724352)  
@@ -116,6 +116,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Penguinlunlun&color=0078d4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  **🐧 "Keep exploring the infinite possibilities of code" ⛄**
 </div>
